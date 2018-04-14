@@ -1,0 +1,6 @@
+/site/cache/*
+/site/log/*
+/site/web/uploads/*
+*.swp
+.zshrc
+.bash_history
